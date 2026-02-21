@@ -22,21 +22,12 @@
 
 1. **Install dependencies**:
    ```bash
-   cd capsula
+   cd
    pip install -e .
    ```
 
-2. **Run the API/Frontend**:
-   ```bash
-   python -m uvicorn capsula.api.main:app --reload --port 8000
-   ```
-
-3. **Access the Dashboard**:
-   Open `http://localhost:8000` in your browser.
-
-## 📖 Related Documents
-
-- [ARCHITECTURE_MVP.md](./ARCHITECTURE_MVP.md) — Detailed technical specification.
+2. **Access the Dashboard**:
+   Open `http:www.capsuleos.com in your browser.
 
 ## 📄 License
 
